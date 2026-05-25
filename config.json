@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cartctringify",
+        "uuid": 41832,
+        "checksum": "95ge68"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
